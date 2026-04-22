@@ -5,7 +5,7 @@ Built with **React + TypeScript + Vite**, styled using **Tailwind CSS** and **sh
 ---
 
 ## 🔗 Live Demo  
-👉 **View Live Project:** https://cpu-scheduler-simulator-iota.vercel.app/  
+👉 **View Live Project:** https://os-project-rust.vercel.app/  
 
 
 ---
@@ -94,11 +94,9 @@ project-root/
 
 ## 👨‍💻 Author  
 Prem Kumar  
-- GitHub: https://github.com/Premkumar282  
-- LinkedIn: https://www.linkedin.com/in/prem-kumar05/
+- GitHub: https://github.com/0nirudh  
+- LinkedIn: https://www.linkedin.com/in/anirudh-singh-b60038333?
 
 
 ## 📌 Repository  
-https://github.com/Premkumar282/cpu-scheduler-simulator
-
-
+https://github.com/0nirudh/osProject
