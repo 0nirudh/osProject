@@ -93,7 +93,7 @@ project-root/
 ---
 
 ## 👨‍💻 Author  
-Prem Kumar  
+Anirudh
 - GitHub: https://github.com/0nirudh  
 - LinkedIn: https://www.linkedin.com/in/anirudh-singh-b60038333?
 
